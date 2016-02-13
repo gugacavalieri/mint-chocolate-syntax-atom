@@ -1,7 +1,7 @@
 {
   "name": "atom-mint-chocolate",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A full of flavored minty chocolate syntax theme for Atom Text Editor!",
   "keywords": [
     "syntax",
