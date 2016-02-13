@@ -1,13 +1,13 @@
 {
   "name": "atom-mint-chocolate",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "A full of flavored minty chocolate syntax theme for Atom Text Editor!",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atom-mint-chocolate",
+  "repository": "https://github.com/gugacavalieri/mint-chocolate-syntax-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
