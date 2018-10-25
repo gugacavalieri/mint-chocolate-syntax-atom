@@ -1,9 +1,10 @@
-# atom-mint-chocolate theme
+#  Mint Chocolate Syntax Theme
 
-We all love minty chocolate, and Atom makes it better!
+![Theme Image](https://i.imgur.com/sdoAUGE.png)
 
-Inspired by Choco theme @ [TextMate-Themes](https://github.com/filmgirl/TextMate-Themes)
+## Install
+Install the City Lights Syntax Theme via Atom by going to ***Preferences/Settings > Install*** and search for Atom Mint Chocolate (make sure you're searching under 'Themes'), or install through CLI <br/>
+`apm install atom-mint-chocolate`
 
-![chocolate-mint](http://www.blenderbottle.com/media/recipes/ChocolateMint.jpg)
-![minty-java](https://cloud.githubusercontent.com/assets/4624484/13029097/31fecd32-d261-11e5-89e8-58e188c1771f.png)
-![minty-html2](https://cloud.githubusercontent.com/assets/4624484/13268973/29955fb6-da64-11e5-8b4b-f967a0077c4f.png)
+## Feedback/Issues
+Are you enjoying the syntax Theme? Don't hesitate to share your excitement. Also let us know if you run into bugs or have any other feedback by creating a Github issue.
