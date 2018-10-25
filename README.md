@@ -1,5 +1,9 @@
 #  Mint Chocolate Syntax Theme
 
+<p align="right">
+  <code>LIKED ? Leave a <a href="https://github.com/tiagoporto/generator-swill-boilerplate/stargazers">⭐</a> : <a href="https://github.com/tiagoporto/generator-swill-boilerplate/issues">😞</a></code>
+</p>
+
 ![Theme Image](https://i.imgur.com/sdoAUGE.png)
 
 ## Install
